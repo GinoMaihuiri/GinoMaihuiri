@@ -11,6 +11,9 @@ I focus on **reverse engineering, malware analysis, and exploit development**.
 ### Writeups & research
 - [LockBit String Deobfuscation — Affine Cipher DLL Loading](https://ginomaihuiri.github.io/lockbit-string-deobfuscation)
 - [Crackme 01 — Hardcoded strcmp with GDB](https://ginomaihuiri.github.io/crackmes/cm1-strcmp)
+- [Crackme 02 — Numeric Serial: Deduction by Disassembly and Live Patching with Rust](crackmes/cm2-numeric)
+  Solving cm2_numeric: atoi behavior, serial deduction from the cmpl opcode, and live
+  patching via ptrace in Rust — CPU state manipulation to bypass the comparison entirely.
 
 📝 All writeups: [ginomaihuiri.github.io](https://ginomaihuiri.github.io)
 

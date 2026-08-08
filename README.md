@@ -18,4 +18,5 @@ I focus on **reverse engineering, malware analysis, and exploit development**.
 ### Profiles
 [YARAify](https://yaraify.abuse.ch/user/51747/) · [LinkedIn](https://www.linkedin.com/in/AldairMaihuiri) · [X](https://x.com/AldairMaihuiri)
 ### Projects
-- [crackmes](https://github.com/GinoMaihuiri/crackmes) — Crackme challenges and solutions
+- [Crackmes](https://github.com/GinoMaihuiri/Crackmes) — Original crackme challenges with solutions and tooling
+- [tooling/](https://github.com/GinoMaihuiri/Crackmes/tree/main/tooling) — ptrace patchers, binary analysis scripts

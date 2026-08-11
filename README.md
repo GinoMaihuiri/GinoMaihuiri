@@ -33,4 +33,4 @@ Currently:
 
 ### Projects
 - [Crackmes](https://github.com/GinoMaihuiri/Crackmes) — Original crackme challenges with solutions and tooling
-  - [Tooling/](https://github.com/GinoMaihuiri/Crackmes/tree/main/Tooling) — ptrace patchers, binary instrumentation in Rust
+- [Tooling/](https://github.com/GinoMaihuiri/Crackmes/tree/main/Tooling) — ptrace patchers, binary instrumentation in Rust
